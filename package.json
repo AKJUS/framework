@@ -54,7 +54,7 @@
   "dependencies": {
     "@clack/prompts": "^0.7.0",
     "@observablehq/inputs": "^0.12.0",
-    "@observablehq/runtime": "^5.9.4",
+    "@observablehq/runtime": "^5.9.9",
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^15.2.3",
