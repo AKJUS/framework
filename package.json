@@ -134,7 +134,7 @@
     "rimraf": "^5.0.5",
     "tempy": "^3.1.0",
     "typescript": "^5.2.2 <5.6.0",
-    "undici": "^6.7.1"
+    "undici": "^6.21.2"
   },
   "engines": {
     "node": ">=18"
